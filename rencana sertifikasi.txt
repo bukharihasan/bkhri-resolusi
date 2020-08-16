@@ -2,5 +2,6 @@ SERTIFIKASI YANG INGIN SAYA RAIH
 - OSCP
  Target mendapatkan sertifikasi satu tahun setelah lulus dari UMJ
 - OSCE
- Target mendapatkan seritifikasi OSCE 2 tahun seteleah medapatkan OSCP
+ Target mendapatkan sertifikasi 3 tahun setelah mendapatkan OSCP
 - OSEE
+  Target mendapatkan sertifikasi 3 tahun setelah mendapatkan OSCE
